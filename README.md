@@ -1,4 +1,4 @@
-# 🚀 Loan Approval Prediction using Machine Learning
+# 🚀“Loan Approval Prediction with Model Comparison & SMOTE” 
 
 ## 📌 Overview
 This project focuses on predicting whether a loan will be approved or not based on applicant details using supervised machine learning techniques.  
